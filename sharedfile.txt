@@ -1,0 +1,11 @@
+public static void main() {
+
+//This is the main method of the class
+
+init();
+int x = o;
+double d = 0.2;
+f(x,y,z);
+finalize();
+
+}
